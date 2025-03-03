@@ -1,5 +1,5 @@
 body {
-    font-family: Ariel Narrow, sans-serif;
+    font-family: Verdana;
     color: #333;
     background-color: #f9f9f9;
     margin: 0;
@@ -8,7 +8,7 @@ body {
 }
 header {
     background-color: #0C0058;
-    color: red;
+    color: cream;
     padding: 20px;
     text-align: center;
 }
@@ -40,7 +40,7 @@ main img {
 }
 footer {
     background-color: #333;
-    color: red;
+    color: cream;
     text-align: center;
     padding: 10px;
     position: fixed;
