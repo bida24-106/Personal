@@ -7,7 +7,7 @@ body {
     line-height: 1.6;
 }
 header {
-    background-color: #110980;
+    background-color: #AA1280;
     color: white;
     padding: 20px;
     text-align: center;
@@ -60,7 +60,7 @@ a:hover {
     text-decoration: underline;
 }
 img {
-    border: 5px solid #110980;
+    border: 5px solid #AA1280;
     border-radius: 10px;
 }
 main a[href^="mailto:"] {
