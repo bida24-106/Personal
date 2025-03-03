@@ -8,7 +8,7 @@ body {
 }
 header {
     background-color: #0C0058;
-    color: white;
+    color: peach;
     padding: 20px;
     text-align: center;
 }
@@ -18,7 +18,7 @@ header h1 {
 }
 
 nav a {
-    color: white;
+    color: blue;
     text-decoration: none;
     margin: 0 10px;
 }
@@ -40,7 +40,7 @@ main img {
 }
 footer {
     background-color: #333;
-    color: white;
+    color: peach;
     text-align: center;
     padding: 10px;
     position: fixed;
@@ -64,6 +64,6 @@ img {
     border-radius: 10px;
 }
 main a[href^="mailto:"] {
-    color: #ff0022;
+    color: #A40002;
     font-weight: bold;
 }
