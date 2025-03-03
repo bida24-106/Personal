@@ -7,7 +7,7 @@ body {
     line-height: 1.6;
 }
 header {
-    background-color: #2CAF58;
+    background-color: #2C0058;
     color: white;
     padding: 20px;
     text-align: center;
@@ -52,7 +52,7 @@ p {
 }
 
 a {
-    color: #4CAF50;
+    color: #00AF50;
     text-decoration: none;
 }
 
@@ -64,6 +64,6 @@ img {
     border-radius: 10px;
 }
 main a[href^="mailto:"] {
-    color: #ff5722;
+    color: #ff0022;
     font-weight: bold;
 }
