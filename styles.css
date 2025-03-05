@@ -1,15 +1,15 @@
 body {
     font-family: sigmar;
     color: #333;
-    background-color: #fff8dc;
+    background-color: #ffffe0;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 header {
-    background-color: #3BB9FF;
+    background-color: #1e90ff;
     color: white;
-    padding: 20px;
+    padding: 50px;
     text-align: center;
 }
 
@@ -18,9 +18,9 @@ header h1 {
 }
 
 nav a {
-    color: blue;
+    color: platinum;
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0 17px;
 }
 
 nav a:hover {
@@ -40,7 +40,7 @@ main img {
 }
 footer {
     background-color: #333;
-    color: peach;
+    color: white;
     text-align: center;
     padding: 10px;
     position: fixed;
@@ -60,10 +60,10 @@ a:hover {
     text-decoration: underline;
 }
 img {
-    border: 5px solid #3BB9FF;
+    border: 5px solid #1e90ff;
     border-radius: 10px;
 }
 main a[href^="mailto:"] {
-    color: #B40079;
+    color: #D70870;
     font-weight: bold;
 }
