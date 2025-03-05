@@ -1,5 +1,5 @@
 body {
-    font-family: storybook;
+    font-family: franklin, sans-serif;
     color: #333;
     background-color: #fffeea;
     margin: 0;
@@ -52,7 +52,7 @@ p {
 }
 
 a {
-    color: #560319;
+    color: #9e7bff;
     text-decoration: none;
 }
 
