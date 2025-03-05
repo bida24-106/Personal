@@ -1,15 +1,15 @@
 body {
-    font-family: sigmar;
+    font-family: storybook;
     color: #333;
-    background-color: #ffffe0;
+    background-color: #fffeea;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 header {
-    background-color: #1e90ff;
+    background-color: #0000A7;
     color: white;
-    padding: 50px;
+    padding: 30px;
     text-align: center;
 }
 
@@ -52,7 +52,7 @@ p {
 }
 
 a {
-    color: #00AF50;
+    color: #560319;
     text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ a:hover {
     text-decoration: underline;
 }
 img {
-    border: 5px solid #1e90ff;
+    border: 5px solid #0000a7;
     border-radius: 10px;
 }
 main a[href^="mailto:"] {
