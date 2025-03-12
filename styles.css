@@ -1,5 +1,5 @@
 body {
-    font-family: franklin, fantasy;
+    font-family: franklin, monospace;
     color: #333;
     background-color: #fffeea;
     margin: 0;
@@ -14,7 +14,7 @@ header {
 }
 
 header h1 {
-    font-family: ariel, cursive;
+    font-family: ariel, fantasy;
     margin: 0;
 }
 
