@@ -7,7 +7,7 @@ body {
     line-height: 1.6;
 }
 header {
-    background-color: #0000A7;
+    background-color: #835c3b;
     color: white;
     padding: 40px;
     text-align: center;
@@ -61,7 +61,7 @@ a:hover {
     text-decoration: underline;
 }
 img {
-    border: 5px solid #0000a7;
+    border: 5px solid #835c3b;
     border-radius: 10px;
     text-align: center;
 }
