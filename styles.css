@@ -1,5 +1,5 @@
 body {
-    font-family: franklin, sans-serif;
+    font-family: franklin, fantasy;
     color: #333;
     background-color: #fffeea;
     margin: 0;
@@ -9,7 +9,7 @@ body {
 header {
     background-color: #0000A7;
     color: white;
-    padding: 30px;
+    padding: 40px;
     text-align: center;
 }
 
@@ -48,7 +48,7 @@ footer {
     width: 100%;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1.3em;
 }
 
 a {
