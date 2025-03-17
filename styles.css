@@ -19,6 +19,14 @@ header h1 {
     margin: 0;
 }
 
+price-tag {
+    color: black
+    padding: 5px 10px
+    border-radius: 5px
+    font-weight: bold
+    display: inline-block
+}
+
 nav a {
     color: platinum;
     text-decoration: none;
