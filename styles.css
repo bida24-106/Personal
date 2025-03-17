@@ -1,5 +1,5 @@
 body {
-    font-family: Times New Roman, sans-serif;
+    font-family: Times New Roman, serif;
     color: #333;
     background-color: #fffeea;
     margin: 0;
@@ -14,7 +14,7 @@ header {
 }
 
 header h1 {
-    font-family: Ariel, sans-serif;
+    font-family: Ariel, serif;
     margin: 0;
 }
 
