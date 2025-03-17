@@ -72,6 +72,7 @@ img {
     border: 5px solid #2554c7;
     border-radius: 10px;
     text-align: center;
+    background-image: url('backgorund tea option 1.jpg');
 }
 main a[href^="mailto:"] {
     color: #D70870;
