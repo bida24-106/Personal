@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-image: url('background tea option 2.jpg');
+    background-image: url('background tea option 1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -20,6 +20,8 @@ header {
     display: inline-block;
     background-color: f10d05;
     font-weight: bold;
+    border-radius: 5px;
+    padding: 8px 12px;
 }
 header h1 {
     font-family: Ariel, serif;
