@@ -1,7 +1,6 @@
 body {
     font-family: Times New Roman, serif;
-    color: #333;
-    background-color: #fffeea;
+    color: #555;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -26,6 +25,7 @@ header {
 .price-tag{
     display: inline-block;
     background-color: 61fd95;
+    color: #000
     border-radius: 10px;
     padding: 8px 12px;
     box-shadow: 2px 2px 5px;
