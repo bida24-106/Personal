@@ -11,8 +11,10 @@ body {
     background-position: center;
 }
 .overlay{
-    background-color: rgba(255, 255, 255, 0.5)
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.5);
 }
+
 header {
     background-color: #9f000f;
     color: white;
@@ -22,9 +24,9 @@ header {
 .price-tag{
     display: inline-block;
     background-color: f10d05;
-    font-weight: bold;
     border-radius: 5px;
     padding: 8px 12px;
+    box-shadow: 2px 2px 5px;
 }
 header h1 {
     font-family: Ariel, serif;
