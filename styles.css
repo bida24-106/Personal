@@ -9,7 +9,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.4;
 }
 header {
     background-color: #9f000f;
@@ -17,7 +16,11 @@ header {
     padding: 40px;
     text-align: center;
 }
-
+.price-tag{
+    display: inline-block;
+    background-color: f10d05;
+    font-weight: bold;
+}
 header h1 {
     font-family: Ariel, serif;
     margin: 0;
