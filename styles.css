@@ -25,6 +25,11 @@ header {
     padding: 8px 12px;
     box-shadow: 2px 2px 5px;
 }
+.image-grid{
+    display.:grid;
+    gap: 10px;
+}
+
 header h1 {
     font-family: Ariel, serif;
     margin: 0;
