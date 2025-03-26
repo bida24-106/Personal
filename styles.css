@@ -8,6 +8,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    opacity: 0.5
+    z-inder: -1
 }
 .overlay{
     position: relative;
