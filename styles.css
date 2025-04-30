@@ -70,7 +70,7 @@ footer {
     background-color: #9f000f;
     color: white;
     text-align: left;
-    padding: 10px;
+    padding: 30px;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -83,6 +83,13 @@ footer-left{
 footer-right{
     flex: 1;
     text-align: center;
+}
+footer h4{
+    margin-bottem: 10px;
+    font-size: 18px;
+}
+footer p{
+    margin: 5px 0;
 }
 p {
     font-size: 1.3em;
