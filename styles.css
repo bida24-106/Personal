@@ -112,14 +112,14 @@ footer {
 }
 .contact-info {
   float: right; 
-  width: 200px;
+  width: 300px;
   padding: 20px;
-  border: 1px solid #ccc;
+  border: 8px solid #ccc;
   background-color: #f9f9f9;
 }
 
 .contact-info h3 {
-  font-size: 1.2em;
+  font-size: 1.5em;
   margin-bottom: 10px;
 }
 
