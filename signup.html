@@ -69,13 +69,27 @@
 
 
 <main>
-<div class="form-container">
+<div class="signup-form-container">
   <form action="action_page.php">
-    <label>First name:</label>
-    <input type="text" name="firstname" placeholder="Enter first name"><br>
-    <label>Last name:</label>
-    <input type="text" name="lastname" placeholder="Enter last name"><br><br>
-    <input type="submit" value="Submit">
+    <fieldset>
+      <legend>Personal Information</legend>
+      <label for="firstname">First Name:</label>
+      <input type="text" id="firstname" name="firstname" placeholder="Enter first name"><br><br>
+      <label for="lastname">Last Name:</label>
+      <input type="text" id="lastname" name="lastname" placeholder="Enter last name"><br><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" placeholder="Enter your email"><br><br>
+    </fieldset>
+
+    <fieldset>
+      <legend>Account Details</legend>
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" placeholder="Enter password"><br><br>
+      <label for="confirm_password">Confirm Password:</label>
+      <input type="password" id="confirm_password" name="confirm_password" placeholder="Confirm password"><br><br>
+    </fieldset>
+
+    <input type="submit" value="Sign Up">
   </form>
 </div>
 
