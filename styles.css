@@ -171,7 +171,33 @@ a {
     color: #9e7bff;
     text-decoration: none;
 }
+.signin-form-container {
+  width: 300px; /* Adjust width as needed */
+  margin: 50px auto; /* Center the form */
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  text-align: center; /* Center text within the container */
+}
 
+.signin-form-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.signin-form-container p {
+  margin-top: 10px;
+}
+
+.signin-form-container a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.signin-form-container a:hover {
+  text-decoration: underline;
+}
 a:hover {
     text-decoration: underline;
 }
