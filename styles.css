@@ -64,12 +64,12 @@ main img {
     margin: 20px 0;
 }
 footer {
-    background-color: #333;
+    font-family: 'Segoe UI', Tahoma;
+    background-color: #9f000f;
     color: white;
     text-align: left;
     padding: 10px;
     position: fixed;
-    bottom: 0;
     width: 100%;
 }
 p {
