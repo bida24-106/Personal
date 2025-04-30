@@ -64,7 +64,9 @@ main img {
     margin: 20px 0;
 }
 footer {
-    font-family: 'Segoe UI', Tahoma;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     background-color: #9f000f;
     color: white;
     text-align: left;
@@ -72,6 +74,15 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+footer-left{
+    flex: 1;
+    text-align: left;
+    
+}
+footer-right{
+    flex: 1;
+    text-align: center;
 }
 p {
     font-size: 1.3em;
