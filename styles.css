@@ -75,22 +75,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
-footer-left{
-    flex: 1;
-    text-align: left;
-    
-}
-footer-right{
-    flex: 1;
-    text-align: center;
-}
-footer h4{
-    margin-bottem: 10px;
-    font-size: 25px;
-}
-footer p{
-    margin: 5px 0;
-}
+
 p {
     font-size: 1.3em;
     colour: white;
