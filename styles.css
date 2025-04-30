@@ -28,6 +28,11 @@ input{
     border-radius: 8px;
     font-size: 16px;
 }
+label{
+    margin-bottom: 8px;
+    font-weight: bold;
+    
+}
 button{
     background-color: #7f1d1d;
     color: white;
