@@ -147,7 +147,7 @@ footer {
     width: 100%;
 }
 .contact-info {
-  float: right; 
+  float: absolute right; 
   width: 450px;
   padding: 20px;
   border: 10px solid #ccc;
