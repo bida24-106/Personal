@@ -135,13 +135,11 @@ main img {
     margin: 20px 0;
 }
 footer {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    
     background-color: #9f000f;
     color: white;
     text-align: left;
-    padding: 15px;
+    padding: 8px;
     position: fixed;
     bottom: 0;
     width: 100%;
